@@ -1,10 +1,10 @@
 # D2-PCSSR
-Data-Efficient PolSAR Crop Parameter Retrieval via Decoupled Deep Collaborative Regression with Spectral Sequence Guidance
+Data-Efficient PolSAR Image Crop Parameter Retrieval via Decoupled Deep Collaborative Regression with Spectral Sequence Guidance
 ---
 
 ## 👀Introduction
 
-This repository contains the code for our paper `D2-PCSSR: Data-Efficient PolSAR Crop Parameter Retrieval via Decoupled Deep Collaborative Regression with Spectral Sequence Guidance`. 
+This repository contains the code for our paper `D2-PCSSR: Data-Efficient PolSAR Image Crop Parameter Retrieval via Decoupled Deep Collaborative Regression with Spectral Sequence Guidance`. 
 
 ![](figures/框架图.png)
 ## 📂 Dataset Preparation

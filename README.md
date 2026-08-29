@@ -6,7 +6,7 @@ Data-Efficient PolSAR Crop Parameter Retrieval via Decoupled Deep Collaborative 
 
 This repository contains the code for our paper `D2-PCSSR: Data-Efficient PolSAR Crop Parameter Retrieval via Decoupled Deep Collaborative Regression with Spectral Sequence Guidance`. 
 
-![](figure/方法总体流程图-改1.png)
+![](figure/框架图.png)
 ## 📂 Dataset Preparation
 
 We evaluated our method on two crop datasets collected in Hengshui, China:

@@ -19,19 +19,13 @@ Please organize your data as follows:
 
 ## 🚀 Quick Start
 1. Create environment.
-'''
-conda create -n sigma python=3.9
-conda activate sigma
-'''
+  '''
+  conda create -n D2PCSSR python=3.9
+  conda activate D2PCSSR
+  '''
 
 2. Install all dependencies. Install pytorch, cuda and cudnn, then install other dependencies via:
-'''
-pip install torch==1.13.1+cu117 torchvision==0.14.1+cu117 torchaudio==0.13.1 --extra-index-url https://download.pytorch.org/whl/cu117
+  '''
+  pip install -r requirements.txt
+  '''
 
-pip install -r requirements.txt
-'''
-
-3. Install Mamba
-'''
-cd models/encoders/selective_scan && pip install . && cd ../../..
-'''

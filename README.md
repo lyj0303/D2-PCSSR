@@ -25,7 +25,7 @@ Please organize your data as follows:
   conda activate D2PCSSR
   ```
 
-3. Install all dependencies. Install pytorch, cuda and cudnn, then install other dependencies via:
+2. Install all dependencies. Install pytorch, cuda and cudnn, then install other dependencies via:
   ```
   pip install -r requirements.txt
   ```
